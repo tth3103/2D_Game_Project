@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{F0944BEF-B95F-B812-247C-15318F2F0911}</ProjectGuid>
+    <ProjectGuid>{306B9622-6474-0D19-83D7-B08F35872B12}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -56,13 +56,14 @@
     <Compile Include="Assets\Scripts\LifeCount.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\MainMenuController.cs" />
+    <Compile Include="Assets\Scripts\ChestControll.cs" />
     <Compile Include="Assets\Scripts\LifeCollectable.cs" />
     <Compile Include="Assets\Scripts\EnemyCollide.cs" />
     <Compile Include="Assets\Scripts\MovingPlatform.cs" />
     <Compile Include="Assets\Scripts\Items.cs" />
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
     <Compile Include="Assets\Scripts\Enemies.cs" />
-    <Compile Include="Assets\Scripts\ChestControll.cs" />
+    <Compile Include="Assets\Scripts\ResultMenu.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
